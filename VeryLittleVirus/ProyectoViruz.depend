@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1660619942 source:c:\users\user\documents\gameprojectt\proyectoviruz\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+
